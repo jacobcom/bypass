@@ -5,8 +5,6 @@
 #or dictionary attacks
 
 import smtplib
-import getpass
-from email.mime.text import MIMEText
 
 def sendmail(email, pwd):
 
